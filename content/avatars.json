@@ -1,0 +1,20 @@
+{
+  "categories": {
+    "humanoid": [
+      {"name": "Alex9", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"},
+      {"name": "SynthiaX", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"},
+      {"name": "CyberMax", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"},
+      {"name": "TechSiren", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"},
+      {"name": "NeoPulse", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"},
+      {"name": "AstraSynth", "url": "/avatars/markbvb_profile_picture_for_CyberMax_a_cyborg_who_seamlessly_bl_b6faf85f-65a1-4cb5-b6fb-d4b253ec1072.png"}
+    ],
+    "historical": [
+      {"name": "Leonardo da Vinci", "url": "/avatars/markbvb_realistic_portrait_of_leonardo_da_vinci_797543b0-0b85-49ba-aee8-dc70e189c82d.png"}
+    ],
+    "developers": [],
+    "memes": [],
+    "apps": [
+      {"name": "gitlab", "url": ""}
+    ]
+  }
+}
