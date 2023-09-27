@@ -14,7 +14,13 @@
     "developers": [],
     "memes": [],
     "apps": [
-      {"name": "gitlab", "url": ""}
+      {"name": "gitlab", "url": "/avatars/gitlab-logo-500.png"}
+    ],
+    "food": [
+      {"name": "coffee", "url": ""}
+    ],
+    "business": [
+      {"name": "", "url": ""}
     ]
   }
 }

@@ -3,4 +3,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxtjs/tailwindcss", "@nuxt/content"],
   content: {},
+  runtimeConfig: {
+    // Public keys that are exposed to the client
+    public: {
+      baseUrl: process.env.baseURL,
+    },
+  },
 });

@@ -1,6 +1,7 @@
 <template>
   <div class="bg-gray-900 h-screen px-10 py-12">
-    <h1 class="font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+    <h1
+      class="font-extrabold text-transparent text-xl sm:text-4xl lg:text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
       Mark's Avatar Studio
     </h1>
     <div class="border-b border-gray-800 my-4"></div>
